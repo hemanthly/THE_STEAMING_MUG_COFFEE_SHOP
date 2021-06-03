@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <style name="Apptheme" parent="Theme.AppCompat">
+            <item name="colorPrimary">#E91E63</item>
+            <item name="colorPrimaryDark">#008b00</item>
+            <item name="colorAccent">#0091EA</item>
+    </style>
+
+    <style name="header_text_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+</resources>
